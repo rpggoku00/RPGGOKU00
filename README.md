@@ -1,5 +1,5 @@
 ## Hi there 👋
-Bem vindo ai meu perfil
+Bem vindo ao meu perfil
 
 Meu nome é Kauhe Fernando
 
