@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 Bem vindo ao meu perfil
 
@@ -18,3 +19,5 @@ passos.kauhe@escola.pr.gov.br
 
 ![image](https://github.com/user-attachments/assets/3adfe96c-c119-4e4c-aacd-21e33bda4570)
 
+
+![](https://github.com/user-attachments/assets/34f1e0af-eddc-4fc0-b543-6a77812c59c9)
